@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'll be OOO until the end of july, any open PR os issue will be in hold. :running:
-
 <!--
 **patrickelectric/patrickelectric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
