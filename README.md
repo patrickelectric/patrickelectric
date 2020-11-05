@@ -1,5 +1,7 @@
 ### Hi there, I'm Patrick! 👋
 
+![trophy](https://github-profile-trophy.vercel.app/?username=patrickelectric&column=8&margin-w=2)
+
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickelectric&show_icons=true)
 
 <!--
