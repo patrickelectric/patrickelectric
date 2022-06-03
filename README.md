@@ -4,6 +4,8 @@
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickelectric&show_icons=true) ![](https://user-images.githubusercontent.com/1215497/123832978-4b243180-d8dc-11eb-9aeb-f9a74f4de224.gif)
 
+![](https://github.com/patrickelectric/patrickelectric/raw/master/static/sad.png)
+
 ##### The important thing for an engineer, is inspiration. Inspiration unlocks the future. Technology will catch up. - The wind rises
 
 
